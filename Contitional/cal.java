@@ -6,8 +6,10 @@ public class cal{
 
         System.err.println("Enter operater");
         char  operater = sc.next().charAt(0);
+
         System.err.println("Enter first value:");
         int a = sc.nextInt();
+        
         System.err.println("Enter second value:");
         int b = sc.nextInt();
 
