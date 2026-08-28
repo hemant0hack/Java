@@ -4,6 +4,10 @@ public class Whileloop{
         while(i>=1){
             System.out.println(i);
             i--;
+        int i = 1;                
+        while(i<=20){
+            System.out.println(i);
+            i++;
         }
     }
 }
