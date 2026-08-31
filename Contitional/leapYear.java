@@ -7,6 +7,6 @@ public class leapYear{
         
         System.out.print("Enter year:");
         int year = input.nextInt();
-        ,
+        
     }
 }
