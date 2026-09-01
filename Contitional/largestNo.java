@@ -26,9 +26,9 @@ public class largestNo{
         System.out.println("Enter third no.:");
         int z = input.nextInt();
 
-        if(x>y && x>z){
+        if(x>=y && x>=z){
             System.out.println("Largest First no."+x);
-        }else if(y>x && y>z){
+        }else if(y>=x && y>=z){
             System.out.println("Largest second no."+y);
         }
         else {

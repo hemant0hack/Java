@@ -6,7 +6,7 @@ public class numberCheck{
         System.out.print("Enter Number:");
         int num = input.nextInt();
 
-        if (num>=1){
+        if (num>0){
             System.out.println("Positive No.");
         }
         else if (num<0){
