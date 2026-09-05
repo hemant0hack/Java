@@ -8,5 +8,11 @@ public class Prime{
         System.out.println("Enter the No. to Print prime no.:");
         int n = sc.nextInt();
         
+        int count == 0 ;
+
+        for(int i =1; i<=n;i++){
+            
+            
+        }
     }
 }
