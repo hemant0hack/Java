@@ -1,14 +1,14 @@
-public class Q8{
+public class triangle2{
     public static void main(String[] args) {
         
-        for(int i = 1; i <=5; i++){
-            for(int j = 1; j<=5; j++){
-                if(j==1|| j==5-i+1 || i==1){
+        for(int i =1; i<=5; i++){
+            for(int j =1; j<=5; j++){
+                if(j==i || j>=i ){
                     System.out.print("*");
                 }else{
                     System.out.print(" ");
-                }
+                }   
             }System.out.println();
-        }
+        }    
     }
 }

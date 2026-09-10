@@ -1,4 +1,4 @@
-public class Q3 {
+public class patternNum2 {
     public static void main(String[] args) {
 
         for (int i = 1; i <= 5; i++) {
