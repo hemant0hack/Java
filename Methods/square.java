@@ -1,17 +1,17 @@
 
 import java.util.Scanner;
 
-class even{
-    static boolean  even(int n) {
-        return n%2==0;
+class square{
+    static int  square(int n) {
+        return n*n;
     }
     
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         // User Input
-        System.out.println("Enter num. to check even or odd..!?");
+        System.out.print("Enter number to become square:");
         int num = sc.nextInt();
 
-        System.out.println(even(num));
+        System.out.println(square(num));
     }
 }
