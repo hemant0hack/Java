@@ -12,3 +12,6 @@
 
 ### The **new** Keyword
 #### You can also create an array y specifying its size with **new** This make an empty array with space for  a fixednumber of elements, which you can fill later:
+
+### Loop Through an Array
+#### The array elements with the **for** loop. and use the **length** propety to specify how many times the loop should run.

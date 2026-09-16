@@ -20,5 +20,16 @@ class cars{
     car[3] = "Mazda";
 
     System.out.println(car[0]);
+
+    // Loop through an Array
+    for (int i = 0; i <  cars.length; i++){
+        System.out.println(cars[i]);
+    }
+
+    int [] numbers = {10, 20, 30, 40};
+
+     for(int i = 0; i<numbers.length; i++){
+       System.out.println(numbers[i]);
+        }
     }
 }
