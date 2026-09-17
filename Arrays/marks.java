@@ -12,12 +12,12 @@ class marks{
         int marks[] = new int[n];
 
         for (int i = 0; i < n; i++) {
-            System.out.print("Enter number of index no. "+ i + ":" );
+            System.out.print("Enter number index no. "+ i + ":" );
             marks[i] = input.nextInt();
         }
         
         for (int i = 0; i < marks.length; i++) {
-            System.out.println(marks[i]);
+            System.out.print(marks[i]+" ");
         }
     }
 }
