@@ -15,7 +15,7 @@ class marks{
             System.out.print("Enter number index no. "+ i + ":" );
             marks[i] = input.nextInt();
         }
-        
+        System.out.print("Marks : ");
         for (int i = 0; i < marks.length; i++) {
             System.out.print(marks[i]+" ");
         }

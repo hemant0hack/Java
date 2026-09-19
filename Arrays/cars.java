@@ -1,6 +1,6 @@
 class cars{
     public static void main(String[] args) {
-    String[] cars = {"Volvo", "BMW", "Ford","Mazda"};
+    String[] cars = {"Volvo", "BMW", "Ford","Mazda","ex"};
 
     // Access the Elemnts of an Array.
     System.out.println(cars[0]);
