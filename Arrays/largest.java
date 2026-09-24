@@ -1,6 +1,6 @@
 class largest{
     public static void main(String[] args) {
-        int[] arr = {10, 25, 5, 40, 15};
+        int[] arr = {10, 25, 5, 40, 15, 50, 70};
         int max = arr[0];
 
         for(int x : arr){
