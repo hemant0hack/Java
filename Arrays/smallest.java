@@ -1,6 +1,6 @@
 class smallest{
     public static void main(String[] args) {
-        int[] arr = {10, 25, 5, 40, 15};
+        int[] arr = {10, 25, 5, 40, 15, 1, 90};
         int min = arr[0];
 
         for(int x : arr){
