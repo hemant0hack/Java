@@ -2,7 +2,7 @@ class evenodd{
     public static void main(String[] args) {
         // count even or odd values
         
-        int[] arr = {10, 15, 20, 25, 30, 35};
+        int[] arr = {10, 15, 20, 25, 30, 35, 26, 95, 75, 64};
         
         int even = 0, odd = 0;
 
